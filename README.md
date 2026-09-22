@@ -1,5 +1,1 @@
-# Git for Beginners
-
-This repository is for training and learning the basics of Git.
-
-This README was added to help describe the project.
+this is my readme file. There's not much to say here. This is for my training
